@@ -1,0 +1,30 @@
+body,html{
+    height:100%;
+}
+.container{
+    text-align: center;
+    margin-top:  10px;
+    background-image: linear-gradient(180deg,blue,yellow);
+    height:100%;
+    width:100%;
+}
+input{
+     border-radius:21px ;
+    border: 5px  #244624;
+    font-size: 34px;
+    font-style: italic;
+    
+}
+button{
+    border-radius: 20px;
+    font-size:23px;
+    background-image:linear-gradient(45deg,white,blue);
+    width: 100px;
+    height: 57px;
+}
+.calculator{
+    background-color: #42c0fb;
+    padding:26px;
+    border-radius: 57px;
+    display: inline-block;
+}
